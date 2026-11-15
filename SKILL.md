@@ -348,7 +348,7 @@ Spawn the 14 specialist sub-agents in **3 parallel waves** (5 + 5 + 4). Every su
 
 * **Check 12.3 — Google Play Protect PHA (Potentially Harmful App) Triggers:**
 
-  * *Pass 1:* Scan for dynamic code loading (`DexClassLoader`, downloading `.apk`/`.jar`/`.so` at runtime), reflection on hidden Android APIs, SMS/Call Log reading, or AccessibilityService abuse.
+  * *Pass 1:* Scan for dynamic code loading (`DexClassLoader`, downloading `.apk`/`.jar`/`.so` at runtime), reflection on hidden Android APIs, SMS/Call Log讀取, or AccessibilityService abuse.
 
   * *Pass 2:* Confirm every declared permission in `AndroidManifest.xml` has a direct, user-visible feature in code so **Google Play Protect** never flags the app as spyware/trojan.
 

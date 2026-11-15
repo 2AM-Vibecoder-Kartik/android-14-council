@@ -1,0 +1,13 @@
+{
+  "name": "android-14-council",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kartik (2AM-Vibecoder-Kartik)",
+    "url": "https://github.com/2AM-Vibecoder-Kartik"
+  },
+  "repository": "https://github.com/2AM-Vibecoder-Kartik/android-14-council",
+  "description": "Universal 14-agent Android, Flutter & React Native pre-launch security, performance, and legal compliance council with 2x Double-Verification and anti-vibe-coding checks.",
+  "skills": [
+    "./skills/android-14-council"
+  ]
+}
